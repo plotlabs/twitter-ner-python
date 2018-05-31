@@ -1,4 +1,4 @@
-##Organization Name Recogntion from Tweets
+ ## Organization Name Recogntion from Tweets
 
 This repository contains python code which detects an Organization's name from a list of tweets extracted using the [Algorithmia API](https://github.com/algorithmiaio/algorithmia-python) .
 
